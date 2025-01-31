@@ -25,7 +25,7 @@ namespace WebApi.Controllers
         [HttpPut("{id}")]
         public async Task<UserDetails> Update(int id, UserDetails updatedUserDetails)
         {
-            return await _UserDetails.Update(id,updatedUserDetails);
+            return await _UserDetails.Update(id, updatedUserDetails);
 
         }
 
