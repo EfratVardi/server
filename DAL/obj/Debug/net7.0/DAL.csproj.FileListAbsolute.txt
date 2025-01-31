@@ -1,0 +1,75 @@
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\bin\Debug\net7.0\DAL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\bin\Debug\net7.0\DAL.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DAL\obj\Debug\net7.0\ref\DAL.dll
+G:\Handesaim\A\0000teacher\React\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.dll
+G:\Handesaim\A\0000teacher\React\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+G:\Handesaim\A\0000teacher\React\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.pdb
+E:\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.deps.json
+E:\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+E:\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.dll
+E:\פרויקט גמר\WebApi\DAL\bin\Debug\net7.0\DAL.pdb
+E:\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+E:\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+E:\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+E:\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+E:\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.dll
+E:\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+E:\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.pdb
+E:\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+E:\פרויקט גמר\WebApi\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\bin\Debug\net7.0\DAL.dll
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\bin\Debug\net7.0\DAL.pdb
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\obj\Debug\net7.0\DAL.dll
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\obj\Debug\net7.0\DAL.pdb
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\the user\Desktop\תיכנות\React\WebApi\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DAL\obj\Debug\net7.0\ref\DAL.dll

@@ -1,0 +1,80 @@
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\bin\Debug\net7.0\DTO.deps.json
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\bin\Debug\net7.0\DTO.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\bin\Debug\net7.0\DTO.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\refint\DTO.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\ref\DTO.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\bin\Debug\net7.0\DAL.dll
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\bin\Debug\net7.0\DAL.pdb
+D:\הנדסאים\עבודה\תשפג\React\newRecipeServerSide\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CopyComplete
+G:\Handesaim\A\0000teacher\React\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.dll
+G:\Handesaim\A\0000teacher\React\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\refint\DTO.dll
+G:\Handesaim\A\0000teacher\React\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.pdb
+E:\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DTO.deps.json
+E:\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DTO.dll
+E:\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DTO.pdb
+E:\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DAL.dll
+E:\פרויקט גמר\WebApi\DTO\bin\Debug\net7.0\DAL.pdb
+E:\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+E:\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+E:\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+E:\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+E:\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CopyComplete
+E:\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.dll
+E:\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\refint\DTO.dll
+E:\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\DTO.pdb
+E:\פרויקט גמר\WebApi\DTO\obj\Debug\net7.0\ref\DTO.dll
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\bin\Debug\net7.0\DTO.deps.json
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\bin\Debug\net7.0\DTO.dll
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\bin\Debug\net7.0\DTO.pdb
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\bin\Debug\net7.0\DAL.dll
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\bin\Debug\net7.0\DAL.pdb
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\obj\Debug\net7.0\DTO.csproj.CopyComplete
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\obj\Debug\net7.0\DTO.dll
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\obj\Debug\net7.0\refint\DTO.dll
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\obj\Debug\net7.0\DTO.pdb
+D:\the user\Desktop\תיכנות\React\WebApi\DTO\obj\Debug\net7.0\ref\DTO.dll
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\bin\Debug\net7.0\DTO.deps.json
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\bin\Debug\net7.0\DTO.dll
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\bin\Debug\net7.0\DTO.pdb
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\bin\Debug\net7.0\DAL.dll
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\bin\Debug\net7.0\DAL.pdb
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\obj\Debug\net7.0\DTO.sourcelink.json
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\obj\Debug\net7.0\DTO.csproj.Up2Date
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\obj\Debug\net7.0\DTO.dll
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\obj\Debug\net7.0\refint\DTO.dll
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\obj\Debug\net7.0\DTO.pdb
+C:\Users\This User\Desktop\פרויקט ספירת הגומר\code\server\DTO\obj\Debug\net7.0\ref\DTO.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\obj\Debug\net7.0\DTO.sourcelink.json
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\obj\Debug\net7.0\DTO.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\obj\Debug\net7.0\refint\DTO.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\obj\Debug\net7.0\DTO.pdb
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\bin\Debug\net7.0\DTO.deps.json
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\bin\Debug\net7.0\DTO.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\bin\Debug\net7.0\DTO.pdb
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\bin\Debug\net7.0\DAL.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\bin\Debug\net7.0\DAL.pdb
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\obj\Debug\net7.0\DTO.csproj.Up2Date
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\obj\Debug\net7.0\ref\DTO.dll
