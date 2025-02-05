@@ -23,7 +23,7 @@ namespace BLL.Functions
 
             var config = new MapperConfiguration(cfg =>
             {
-                cfg.AddProfile<CountDProfile>();
+                //cfg.AddProfile<CountDProfile>();
             });
 
             mapper = config.CreateMapper();

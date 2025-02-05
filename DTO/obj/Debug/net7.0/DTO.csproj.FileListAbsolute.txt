@@ -78,3 +78,19 @@ C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Serv
 C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\bin\Debug\net7.0\DAL.pdb
 C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\obj\Debug\net7.0\DTO.csproj.Up2Date
 C:\Users\אפרת ורדי\Desktop\פרוייקטים\ספירת הגומר\Server\DTO\obj\Debug\net7.0\ref\DTO.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\bin\Debug\net7.0\DTO.deps.json
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\bin\Debug\net7.0\DTO.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\bin\Debug\net7.0\DTO.pdb
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\bin\Debug\net7.0\DAL.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\bin\Debug\net7.0\DAL.pdb
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\obj\Debug\net7.0\DTO.csproj.AssemblyReference.cache
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\obj\Debug\net7.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\obj\Debug\net7.0\DTO.AssemblyInfoInputs.cache
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\obj\Debug\net7.0\DTO.AssemblyInfo.cs
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\obj\Debug\net7.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\obj\Debug\net7.0\DTO.sourcelink.json
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\obj\Debug\net7.0\DTO.csproj.Up2Date
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\obj\Debug\net7.0\DTO.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\obj\Debug\net7.0\refint\DTO.dll
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\obj\Debug\net7.0\DTO.pdb
+C:\Users\אפרת ורדי\Desktop\פרוייקטים\מערכת לצבירת נקודות\server\DTO\obj\Debug\net7.0\ref\DTO.dll
