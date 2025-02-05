@@ -3,33 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92651A33-EDC4-4AF6-A917-42855D8F5F01}|WebApi\\WebApi.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92651A33-EDC4-4AF6-A917-42855D8F5F01}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DTO\\Classes\\CommentsToRecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05E4\u05D9\u05E8\u05EA \u05D4\u05D2\u05D5\u05DE\u05E8\\code\\server\\DTO\\Classes\\RecipeProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92651A33-EDC4-4AF6-A917-42855D8F5F01}|WebApi\\WebApi.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{92651A33-EDC4-4AF6-A917-42855D8F5F01}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7A4E7A0-2A4A-4D03-8F9C-BEE495ADB3AD}|DTO\\DTO.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\dto\\classes\\countdprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7A4E7A0-2A4A-4D03-8F9C-BEE495ADB3AD}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\countdprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\WebApi\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5870C9D-B585-4DF1-A676-284CB706A2EA}|BLL\\BLL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B5870C9D-B585-4DF1-A676-284CB706A2EA}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7A4E7A0-2A4A-4D03-8F9C-BEE495ADB3AD}|DTO\\DTO.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\dto\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7A4E7A0-2A4A-4D03-8F9C-BEE495ADB3AD}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5870C9D-B585-4DF1-A676-284CB706A2EA}|BLL\\BLL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\bll\\functions\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5870C9D-B585-4DF1-A676-284CB706A2EA}|BLL\\BLL.csproj|solutionrelative:bll\\functions\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B90E3E5-5DEB-417A-A27B-02EB4E3528BC}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\dal\\interfaces\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,7 +15,56 @@
       "RelativeMoniker": "D:0:0:{8B90E3E5-5DEB-417A-A27B-02EB4E3528BC}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{92651A33-EDC4-4AF6-A917-42855D8F5F01}|WebApi\\WebApi.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\webapi\\controllers\\userdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92651A33-EDC4-4AF6-A917-42855D8F5F01}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\userdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92651A33-EDC4-4AF6-A917-42855D8F5F01}|WebApi\\WebApi.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92651A33-EDC4-4AF6-A917-42855D8F5F01}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B90E3E5-5DEB-417A-A27B-02EB4E3528BC}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\dal\\functions\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B90E3E5-5DEB-417A-A27B-02EB4E3528BC}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5870C9D-B585-4DF1-A676-284CB706A2EA}|BLL\\BLL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\bll\\functions\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5870C9D-B585-4DF1-A676-284CB706A2EA}|BLL\\BLL.csproj|solutionrelative:bll\\functions\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B90E3E5-5DEB-417A-A27B-02EB4E3528BC}|DAL\\DAL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\dal\\interfaces\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B90E3E5-5DEB-417A-A27B-02EB4E3528BC}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A4E7A0-2A4A-4D03-8F9C-BEE495ADB3AD}|DTO\\DTO.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\dto\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A4E7A0-2A4A-4D03-8F9C-BEE495ADB3AD}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A4E7A0-2A4A-4D03-8F9C-BEE495ADB3AD}|DTO\\DTO.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\dto\\classes\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A4E7A0-2A4A-4D03-8F9C-BEE495ADB3AD}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\WebApi\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\BLL\\Functions\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DTO\\Classes\\CommentsToRecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05E4\u05D9\u05E8\u05EA \u05D4\u05D2\u05D5\u05DE\u05E8\\code\\server\\DTO\\Classes\\RecipeProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92651A33-EDC4-4AF6-A917-42855D8F5F01}|WebApi\\WebApi.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92651A33-EDC4-4AF6-A917-42855D8F5F01}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92651A33-EDC4-4AF6-A917-42855D8F5F01}|WebApi\\WebApi.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92651A33-EDC4-4AF6-A917-42855D8F5F01}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5870C9D-B585-4DF1-A676-284CB706A2EA}|BLL\\BLL.csproj|c:\\users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5870C9D-B585-4DF1-A676-284CB706A2EA}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DTO\\Classes\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -98,34 +122,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CountDProfile.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DTO\\Classes\\CountDProfile.cs",
-              "RelativeDocumentMoniker": "DTO\\Classes\\CountDProfile.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DTO\\Classes\\CountDProfile.cs",
-              "RelativeToolTip": "DTO\\Classes\\CountDProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\BLL\\Functions\\User.cs",
+              "RelativeDocumentMoniker": "BLL\\Functions\\User.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\BLL\\Functions\\User.cs",
+              "RelativeToolTip": "BLL\\Functions\\User.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T20:20:28.247Z"
+              "WhenOpened": "2025-01-31T11:38:37.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDetail.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DAL\\Functions\\UserDetail.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\UserDetail.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DAL\\Functions\\UserDetail.cs",
+              "RelativeToolTip": "DAL\\Functions\\UserDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:37:50.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDetail.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DAL\\Interfaces\\UserDetail.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\UserDetail.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DAL\\Interfaces\\UserDetail.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\UserDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:37:47.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DTO\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "DTO\\Classes\\User.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DTO\\Classes\\User.cs",
+              "RelativeToolTip": "DTO\\Classes\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:37:45.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\BLL\\Functions\\UserDetails.cs",
+              "RelativeDocumentMoniker": "BLL\\Functions\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\BLL\\Functions\\UserDetails.cs",
+              "RelativeToolTip": "BLL\\Functions\\UserDetails.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:36:30.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RecipeProfile.cs",
-              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05E4\u05D9\u05E8\u05EA \u05D4\u05D2\u05D5\u05DE\u05E8\\code\\server\\DTO\\Classes\\RecipeProfile.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05E4\u05D9\u05E8\u05EA \u05D4\u05D2\u05D5\u05DE\u05E8\\code\\server\\DTO\\Classes\\RecipeProfile.cs",
-              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05E4\u05D9\u05E8\u05EA \u05D4\u05D2\u05D5\u05DE\u05E8\\code\\server\\DTO\\Classes\\RecipeProfile.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05E4\u05D9\u05E8\u05EA \u05D4\u05D2\u05D5\u05DE\u05E8\\code\\server\\DTO\\Classes\\RecipeProfile.cs",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DAL\\Functions\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\User.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DAL\\Functions\\User.cs",
+              "RelativeToolTip": "DAL\\Functions\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T12:24:31.178Z"
+              "WhenOpened": "2024-03-06T12:24:31.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DAL\\Interfaces\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\User.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DAL\\Interfaces\\User.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T12:24:31.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:34:49.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\WebApi\\Controllers\\UserDetailController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UserDetailController.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\WebApi\\Controllers\\UserDetailController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UserDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:34:42.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DTO\\Classes\\UserDetails.cs",
+              "RelativeDocumentMoniker": "DTO\\Classes\\UserDetails.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DTO\\Classes\\UserDetails.cs",
+              "RelativeToolTip": "DTO\\Classes\\UserDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:37:44.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CommentsToRecipe.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DTO\\Classes\\CommentsToRecipe.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DTO\\Classes\\CommentsToRecipe.cs",
@@ -136,19 +267,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
+              "Title": "RecipeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05E4\u05D9\u05E8\u05EA \u05D4\u05D2\u05D5\u05DE\u05E8\\code\\server\\DTO\\Classes\\RecipeProfile.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05E4\u05D9\u05E8\u05EA \u05D4\u05D2\u05D5\u05DE\u05E8\\code\\server\\DTO\\Classes\\RecipeProfile.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05E4\u05D9\u05E8\u05EA \u05D4\u05D2\u05D5\u05DE\u05E8\\code\\server\\DTO\\Classes\\RecipeProfile.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05E4\u05D9\u05E8\u05EA \u05D4\u05D2\u05D5\u05DE\u05E8\\code\\server\\DTO\\Classes\\RecipeProfile.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T12:24:31.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\BLL\\Functions\\Category.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\BLL\\Functions\\Category.cs",
               "ToolTip": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\BLL\\Functions\\Category.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\BLL\\Functions\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-06T12:24:31.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\WebApi\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\WebApi\\Controllers\\CategoryController.cs",
@@ -159,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
@@ -172,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DTO\\Classes\\Category.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DTO\\Classes\\Category.cs",
@@ -184,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "WebApi.csproj",
               "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\WebApi\\WebApi.csproj",
               "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
@@ -196,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "IngredientsToRecipe.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Interfaces\\IngredientsToRecipe.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Interfaces\\IngredientsToRecipe.cs",
@@ -208,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Functions\\Category.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Functions\\Category.cs",
@@ -220,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Recipe.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Interfaces\\Recipe.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Interfaces\\Recipe.cs",
@@ -232,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "IngredientsToRecipe.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Models\\IngredientsToRecipe.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Models\\IngredientsToRecipe.cs",
@@ -244,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "LevelController.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\WebApi\\Controllers\\LevelController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\WebApi\\Controllers\\LevelController.cs",
@@ -256,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "IngredientsToRecipeController.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\WebApi\\Controllers\\IngredientsToRecipeController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\WebApi\\Controllers\\IngredientsToRecipeController.cs",
@@ -268,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "RecipeController.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\WebApi\\Controllers\\RecipeController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\WebApi\\Controllers\\RecipeController.cs",
@@ -280,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "CommentsToRecipe.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\BLL\\Functions\\CommentsToRecipe.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\BLL\\Functions\\CommentsToRecipe.cs",
@@ -292,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Models\\Category.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Models\\Category.cs",
@@ -304,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "Ingredient.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Interfaces\\Ingredient.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Interfaces\\Ingredient.cs",
@@ -316,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "CommentsToRecipe.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Functions\\CommentsToRecipe.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Functions\\CommentsToRecipe.cs",
@@ -328,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Interfaces\\Category.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Interfaces\\Category.cs",
@@ -340,31 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DTO\\Classes\\User.cs",
-              "RelativeDocumentMoniker": "DTO\\Classes\\User.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DTO\\Classes\\User.cs",
-              "RelativeToolTip": "DTO\\Classes\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T12:24:31.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DAL\\Interfaces\\User.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\User.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DAL\\Interfaces\\User.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T12:24:31.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Models\\User.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Models\\User.cs",
@@ -376,19 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DAL\\Functions\\User.cs",
-              "RelativeDocumentMoniker": "DAL\\Functions\\User.cs",
-              "ToolTip": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\DAL\\Functions\\User.cs",
-              "RelativeToolTip": "DAL\\Functions\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T12:24:31.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "RecipesDbContext.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Models\\RecipesDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Models\\RecipesDbContext.cs",
@@ -400,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "CommentsToRecipe.cs",
               "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Interfaces\\CommentsToRecipe.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\This User\\Desktop\\\u05EA\u05D9\u05DB\u05E0\u05D5\u05EA\\React\\WebApi\\DAL\\Interfaces\\CommentsToRecipe.cs",
@@ -412,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "BLL.csproj",
               "DocumentMoniker": "C:\\Users\\\u05D0\u05E4\u05E8\u05EA \u05D5\u05E8\u05D3\u05D9\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\u05D9\u05DD\\\u05DE\u05E2\u05E8\u05DB\u05EA \u05DC\u05E6\u05D1\u05D9\u05E8\u05EA \u05E0\u05E7\u05D5\u05D3\u05D5\u05EA\\server\\BLL\\BLL.csproj",
               "RelativeDocumentMoniker": "BLL\\BLL.csproj",
